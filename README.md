@@ -21,7 +21,7 @@ A responsive landing page for a sushi restaurant built using HTML, CSS, and Vite
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/harsh-sankhe/Sushi-Website/
+git clone https://github.com/harsh-sankhe/Sushi-Website.git
 cd SushiWebsite
 npm install
 ```
