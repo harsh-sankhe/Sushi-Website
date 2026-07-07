@@ -32,6 +32,10 @@ Start the development server:
 npm run dev
 ```
 
+## 🌐 Live Demo
+
+``` https://sushi-website-design.netlify.app/ ```
+
 ## 👤 Author
 
 **Harsh Sankhe**
