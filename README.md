@@ -34,7 +34,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-``` https://sushi-website-design.netlify.app/ ```
+https://sushi-website-design.netlify.app/
 
 ## 👤 Author
 
